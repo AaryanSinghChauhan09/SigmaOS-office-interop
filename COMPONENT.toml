@@ -3,7 +3,7 @@ name = "SigmaOS-office-interop"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "office-interop component"
+description = "Office interoperability: ODF, OOXML, PDF import/export, font compatibility"
 upstream = []
 
 [contract]
